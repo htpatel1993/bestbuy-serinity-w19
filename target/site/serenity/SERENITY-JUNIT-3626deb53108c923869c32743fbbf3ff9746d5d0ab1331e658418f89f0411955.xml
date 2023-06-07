@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.bestbuy.bestbuyinfo.CreateStoresDataDrivenTest" skipped="0" tests="100" time="277.09" timestamp="2023-06-04T12:54:37.862+01:00[Europe/London]"><testcase classname="com.bestbuy.bestbuyinfo.CreateStoresDataDrivenTest" name="Data driven test for adding multiple stores to the application"/></testsuite>
